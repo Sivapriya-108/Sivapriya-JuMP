@@ -4,7 +4,7 @@ This project is developed as part of the **JuMP** initiative under the guidance 
 
 ## Project Overview
 
-This project builds a Machine Learning model to predict the severity of forest fires based on environmental factors like temperature, humidity, wind, and rainfall. It utilizes the **Forest Fires Dataset** from the **UCI Machine Learning Repository** and applies feature engineering, **XGBoost** regression, and hyperparameter tuning to achieve an optimized prediction model.
+All of us worked on individual datasets, and therefore all our contributions are mutually exclusive.This project builds a Machine Learning model to predict the severity of forest fires based on environmental factors like temperature, humidity, wind, and rainfall. It utilizes the **Forest Fires Dataset** from the **UCI Machine Learning Repository** and applies feature engineering, **XGBoost** regression, and hyperparameter tuning to achieve an optimized prediction model.
 
 Additionally, a **Streamlit** app is developed to allow users to interact with the model and predict the potential burned area based on custom input values.
 
